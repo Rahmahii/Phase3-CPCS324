@@ -12,7 +12,7 @@ import java.util.List;
 public class MaximumFlow {
 /**
  * create graph with specific number of nodes 
- * @param nodes the number of nodes in graph
+ * @param node the number of nodes in graph
  * @return list of edges 
  */
     public static List<Edge>[] createGraph(int node) {
